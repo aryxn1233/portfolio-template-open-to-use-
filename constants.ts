@@ -33,6 +33,15 @@ export const SKILLS: Skill[] = [
 
 export const INITIAL_PROJECTS: Project[] = [
   {
+    title: 'Barber Booking ',
+    description: 'Developed a full-stack for booking appointments with barber , user authentication,login as barber',
+    link: 'https://barbar-booking-management.vercel.app/#/auth',
+    tags: ['React', 'API', 'UI/UX', 'Nodejs'],
+    imageUrl: 'https://drive.google.com/file/d/1_EkJGg7ljTwRQ6Mqnys1t21vMY3y0vvP/view?usp=sharing',
+    workingVideoUrl: 'https://drive.google.com/file/d/1IAZ8048Q7qnTnFgYStcoLkcx-MUrhbFh/view?usp=sharing',
+    codeVideoUrl: 'https://drive.google.com/file/d/1VbVk06fLKICMzbL8Ce8eJ__6jKRYnpGI/view?usp=sharing',
+  },
+  {
     title: 'E-commerce Web Application(smart-sphere)',
     description: 'Developed a full-stack e-commerce platform with product management, user authentication, and order processing.',
     link: 'https://beautiful-churros-6448f8.netlify.app/',
